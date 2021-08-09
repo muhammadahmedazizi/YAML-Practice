@@ -1,1 +1,2 @@
-### This project is meant to understand yaml structure it using parse in Python Script
+# This project is meant to understand yaml structure a
+### Parsing YAML data using Python Script
